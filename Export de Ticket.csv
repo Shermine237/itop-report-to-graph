@@ -1,0 +1,57 @@
+"Référence","Référence","Client->Nom organisation","Titre","Demandeur->Nom complet","Equipe->Nom","Agent->Nom complet","Etat agrégé","Date de début","Date de fermeture","Date de fin","Dernière mise à jour","Description","Journal privé","Sous-classe de Ticket","id (Clef primaire)","Agent","Agent->Nom","Agent->Obsolète","Agent->Prénom","Agent->Organisation","Agent->Nom organisation","Agent->Email","Agent->Numéro d'employé","Client","Client->Nom complet","Client->Obsolète","Client->Code","Demandeur","Demandeur->Nom","Demandeur->Obsolète","Demandeur->Prénom","Demandeur->Organisation","Demandeur->Nom organisation","Demandeur->Email","Demandeur->Numéro d'employé","Equipe","Equipe->Email","Equipe->Nom complet","Equipe->Obsolète","Equipe->Organisation","Equipe->Nom organisation"
+"R-000083","R-000083","SIAP PHARMA","Systeme obsolete sur le PC de Mme EKOBEMme","Siap Pharma","Consultants","Charlie Rostant YOSSA","Résolu","2025-03-10 10:45:45",,,"2025-03-10 10:46:12","Le Systeme est obsolete.","","Demande Utilisateur",83,4,"YOSSA",Non,"Charlie Rostant",1,"MAVOU Consulting","charlie.yossa@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000084","R-000084","SIAP PHARMA","Systeme obsolete sur le PC de Dr Boughem","Siap Pharma","Consultants","Charlie Rostant YOSSA","Résolu","2025-03-10 10:48:44",,,"2025-03-10 15:48:35","Systeme obsolete sur le PC de Dr Boughem","","Demande Utilisateur",84,4,"YOSSA",Non,"Charlie Rostant",1,"MAVOU Consulting","charlie.yossa@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000085","R-000085","SIAP PHARMA","Réparation de la machine de la mezanine","Siap Pharma","Consultants","Fressie NOUBISSI","Résolu","2025-03-10 13:00:36",,,"2025-03-10 13:05:04","Réparation de la machine de la mezanine","","Demande Utilisateur",85,5,"NOUBISSI",Non,"Fressie",1,"MAVOU Consulting","fressie.noubissi@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000086","R-000086","SIAP PHARMA","Configuration du mail de Mr Bellesdras sur la machine de la mesanine","Siap Pharma","Consultants","Angel TAFFO","Résolu","2025-03-10 13:07:49",,,"2025-03-11 14:14:04","Configuration du mail de Mr Bellesdras sur la machine de la mésanine","","Demande Utilisateur",86,3,"TAFFO",Non,"Angel",1,"MAVOU Consulting","angel.taffo@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000087","R-000087","SIAP PHARMA","Problème SQL sur le serveur","Siap Pharma","Consultants","Fressie NOUBISSI","Résolu","2025-03-10 13:09:47",,,"2025-03-10 13:11:19","Problème SQL sur le serveur","","Demande Utilisateur",87,5,"NOUBISSI",Non,"Fressie",1,"MAVOU Consulting","fressie.noubissi@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000088","R-000088","SIAP PHARMA","Configuration du mail de madame Poupina EKOBE du service exploitation","Siap Pharma","Consultants","Angel TAFFO","Résolu","2025-03-10 13:14:37",,,"2025-03-10 13:16:10","Configuration du mail de madame Poupina EKOBE du service exploitation.
+
+Nouvelle machine, Il a donc fallu reconfigurer son mail à nouveau.","","Demande Utilisateur",88,3,"TAFFO",Non,"Angel",1,"MAVOU Consulting","angel.taffo@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000089","R-000089","SIAP PHARMA","Systeme obsolete sur le PC de Dr Tombe","Siap Pharma","Consultants","Charlie Rostant YOSSA","Résolu","2025-03-10 15:50:56",,,"2025-03-10 15:51:38","Systeme obsolete sur le PC de Dr Tombe","","Demande Utilisateur",89,4,"YOSSA",Non,"Charlie Rostant",1,"MAVOU Consulting","charlie.yossa@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000090","R-000090","SIAP PHARMA","Installation de Microsoft Office sur le PC de Mr Bellesdras","Siap Pharma","Consultants","Charlie Rostant YOSSA","Résolu","2025-03-10 16:15:28",,,"2025-03-10 16:15:57","Installation de Microsoft Office sur le PC de Mr Bellesdras","","Demande Utilisateur",90,4,"YOSSA",Non,"Charlie Rostant",1,"MAVOU Consulting","charlie.yossa@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000091","R-000091","SIAP PHARMA","Installation compte de billet au service de facturation","Siap Pharma","Consultants","Fressie NOUBISSI","Résolu","2025-03-10 17:58:39",,,"2025-03-10 19:21:02","Installer le compteur de billets Premax PM-VC110 au service de facturation","","Demande Utilisateur",91,5,"NOUBISSI",Non,"Fressie",1,"MAVOU Consulting","fressie.noubissi@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000092","R-000092","SIAP PHARMA","Dysfonctionnement de l'onduleur de Mme Jeannette","Siap Pharma","Consultants","Ulrich TANKOUA","Résolu","2025-03-12 09:51:09",,,"2025-03-12 09:54:51","Dysfonctionnement de l'onduleur de Mme Jeannette","","Demande Utilisateur",92,6,"TANKOUA",Non,"Ulrich",1,"MAVOU Consulting","ulrich.tankoua@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000093","R-000093","SIAP PHARMA","Impression","Charline NGAMBA","Consultants","Charlie Rostant YOSSA","Résolu","2025-03-12 13:22:01",,,"2025-03-12 14:12:15","Bonjour équipe
+
+Svp le Chef service comptabilité n'arrive pas à imprimer sur l'imprimante couleur.
+
+Urgent .
+
+Cordialement,...?
+
+Charline NGAMBA Epse WAFFO
+
+Direction Administrative / RH
+
+Mobile : 691 53 86 50
+
+P.O.BOX: 15643 Douala Cameroon
+
+[SIAP1.png]
+
+P Afin de contribuer au respect de l´environnement merci de n´imprimer ce mail que si nécessaire
+Please consider your environmental responsibility before printing this e-mail.","","Demande Utilisateur",93,4,"YOSSA",Non,"Charlie Rostant",1,"MAVOU Consulting","charlie.yossa@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",9,"NGAMBA",Non,"Charline",3,"SIAP PHARMA","charline.nganba@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000094","R-000094","SIAP PHARMA","Enregistrement d'un employé sur le pointeur","Siap Pharma","Consultants","Fressie NOUBISSI","Résolu","2025-03-12 14:18:31",,,"2025-03-12 15:28:08","Enregistrement de l'employé EBONDA sur le pointeur","","Demande Utilisateur",94,5,"NOUBISSI",Non,"Fressie",1,"MAVOU Consulting","fressie.noubissi@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000095","R-000095","SIAP PHARMA","Installation imprimante couleur","Siap Pharma","Consultants","Fressie NOUBISSI","Résolu","2025-03-12 14:20:35",,,"2025-03-12 15:29:37","Installation imprimante couleur située au Achats sur les machines du service comptabilité","","Demande Utilisateur",95,5,"NOUBISSI",Non,"Fressie",1,"MAVOU Consulting","fressie.noubissi@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000096","R-000096","SIAP PHARMA","Dysfonctionnement service facturation","Charline NGAMBA","Consultants","Ulrich TANKOUA","Résolu","2025-03-14 12:07:02",,,"2025-03-14 15:26:56","Bonjour équipe
+
+La machine du responsable du service facturation ne démarre pas après coupure d'électricité
+
+Urgent
+
+Cordialement,...?
+
+Charline NGAMBA Epse WAFFO
+
+Direction Administrative / RH
+
+Mobile : 691 53 86 50
+
+P.O.BOX: 15643 Douala Cameroon
+
+[SIAP1.png]
+
+P Afin de contribuer au respect de l´environnement merci de n´imprimer ce mail que si nécessaire
+Please consider your environmental responsibility before printing this e-mail.","","Demande Utilisateur",96,6,"TANKOUA",Non,"Ulrich",1,"MAVOU Consulting","ulrich.tankoua@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",9,"NGAMBA",Non,"Charline",3,"SIAP PHARMA","charline.nganba@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000097","R-000097","SIAP PHARMA","Ajout de l'imprimante canon IR2520 sur le PC du responsable commercial","Siap Pharma","Consultants","Charlie Rostant YOSSA","Résolu","2025-03-14 15:43:49",,,"2025-03-14 15:44:24","Ajout de l'imprimante canon IR2520 sur le PC du responsable commercial","","Demande Utilisateur",97,4,"YOSSA",Non,"Charlie Rostant",1,"MAVOU Consulting","charlie.yossa@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
+"R-000098","R-000098","SIAP PHARMA","Problème SQL sur SAGE","Siap Pharma","Consultants","Fressie NOUBISSI","Résolu","2025-03-14 16:06:33",,,"2025-03-14 17:55:36","Problème SQL qui empêche le comptable d'imprimer un rapport","","Demande Utilisateur",98,5,"NOUBISSI",Non,"Fressie",1,"MAVOU Consulting","fressie.noubissi@mavou.consulting","",3,"SIAP PHARMA",Non,"SIAP",13,"Pharma",Non,"Siap",3,"SIAP PHARMA","contact@siappharma.com","",2,"support@mavou.consulting","Consultants",Non,1,"MAVOU Consulting"
